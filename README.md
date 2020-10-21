@@ -2,9 +2,11 @@
 
 ## 唐突なC++コード
 
-    #include <iostream>
-    using namespace std;
-    
-    int main() {
-      std::cout << "Hello" << std::endl;
-    }
+```c++
+#include <iostream>
+using namespace std;
+
+int main() {
+  std::cout << "Hello" << std::endl;
+}
+```
